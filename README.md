@@ -1,6 +1,4 @@
-# The League Flight Schedule Optimization
-
-This project aims to optimize The League's flight schedules by analyzing and projecting key factors related to jet requirements and fuel expenses during the 2102 season.
+# Fuel cost prediction
 
 ## Key Objectives
 
